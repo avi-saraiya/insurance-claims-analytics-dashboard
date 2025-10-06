@@ -4,7 +4,7 @@ Data cleaning, transformation, and visualization of medical insurance claims usi
 ## Overview
 This project analyzes over 1,000 medical insurance records to uncover trends in insurance charges based on demographics and lifestyle factors.
 
-Built using Power BI and Power Query, it demonstrates data cleaning, transformation, visualization, and dashboard automation.
+Built using Power BI and Power Query, it demonstrates data cleaning, transformation and visualization.
 
 ## Tools Used
 Power BI – for visualization and dashboard creation
