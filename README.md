@@ -24,7 +24,7 @@ Regional and demographic insights (age, gender, smoker status)
 
 ## Preview
 
-<img width="1164" height="652" alt="image" src="https://github.com/user-attachments/assets/9c5931fb-14f0-4d8f-b1ec-172ed6dd2dfd" />
+<img width="1247" height="703" alt="image" src="https://github.com/user-attachments/assets/525429e4-6e57-4964-ab7b-69fcf059427e" />
 
 
 ## Key Insights
